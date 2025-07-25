@@ -11,7 +11,8 @@ I'm a full-stack software engineer focused on building scalable, maintainable ap
 - **Frontend**: Angular, TypeScript, RxJS, Angular Material, NgRx, SignalR
 - **Cloud & DevOps**: Azure, GitHub Actions, CI/CD, Docker, Kubernetes
 - **Messaging & Async**: RabbitMQ, Redis, Background Jobs, .NET Quartz
-- **Tooling**: AutoMapper, MediatR, FluentValidation, Swagger
+- **Testing**: WebApplicationFactory, Cypress, xUnit
+- **Tooling**: Visual Studio Code, DBeaver, GitHub Copilot
 
 ---
 
