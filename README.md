@@ -8,15 +8,14 @@ I'm a full-stack software engineer focused on building scalable, maintainable ap
 
 - **Backend**: .NET, C#, Entity Framework, REST APIs, Clean Architecture, DDD
 - **Databases**: MSSQL, Oracle
-- **Frontend**: Angular, TypeScript, RxJS, Angular Material, NgRx, SignalR
+- **Frontend**: Angular, TypeScript, RxJS, Angular Material, NgRx,SignalR
 - **Cloud & DevOps**: Azure, GitHub Actions, CI/CD, Docker, Kubernetes
 - **Messaging & Async**: RabbitMQ, Redis, Background Jobs, .NET Quartz
-- **Testing**: WebApplicationFactory, Cypress, xUnit
-- **Tooling**: Visual Studio Code, DBeaver, GitHub Copilot
+- **Tooling**: AutoMapper, MediatR, FluentValidation, Swagger
 
 ---
 
-## 🚀 Project Spotlight: [FinanceApp](https://github.com/Sziszka90/FinanceApp.Backend)
+## 🚀 Project Spotlight: [FinanceApp](https://github.com/users/Sziszka90/projects/2)
 
 A full-stack personal finance application featuring:
 
