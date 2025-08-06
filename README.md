@@ -8,10 +8,10 @@ I'm a full-stack software engineer focused on building scalable, maintainable ap
 
 - **Backend**: .NET, C#, Entity Framework, REST APIs, Clean Architecture, DDD
 - **Databases**: MSSQL, Oracle
-- **Frontend**: Angular, TypeScript, RxJS, Angular Material, NgRx,SignalR
+- **Frontend**: Angular, TypeScript, RxJS, Angular Material, NgRx, SignalR
 - **Cloud & DevOps**: Azure, GitHub Actions, CI/CD, Docker, Kubernetes
 - **Messaging & Async**: RabbitMQ, Redis, Background Jobs, .NET Quartz
-- **Tooling**: AutoMapper, MediatR, FluentValidation, Swagger
+- **Tooling**: AutoMapper, MediatR, FluentValidation, Swagger, GitHub Copilot
 
 ---
 
