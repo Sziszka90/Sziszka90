@@ -6,7 +6,7 @@ I'm a full-stack software engineer focused on building scalable, maintainable ap
 
 ## 🔧 Tech Stack
 
-- **Backend**: .NET, C#, Entity Framework, REST APIs, Clean Architecture, DDD
+- **Backend**: .NET, C#, Python, Entity Framework, REST APIs, Clean Architecture, DDD
 - **Databases**: MSSQL, Oracle
 - **Frontend**: Angular, TypeScript, RxJS, Angular Material, NgRx, SignalR
 - **Cloud & DevOps**: Azure, GitHub Actions, CI/CD, Docker, Kubernetes
