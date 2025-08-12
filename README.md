@@ -10,8 +10,7 @@ I'm a full-stack software engineer focused on building scalable, maintainable ap
 - **Databases**: MSSQL, Oracle
 - **Frontend**: Angular, TypeScript, RxJS, Angular Material, NgRx, SignalR
 - **Cloud & DevOps**: Azure, GitHub Actions, CI/CD, Docker, Kubernetes
-- **Messaging & Async**: RabbitMQ, Redis, Background Jobs, .NET Quartz
-- **Tooling**: AutoMapper, MediatR, FluentValidation, Swagger, GitHub Copilot
+- **Messaging & Async**: RabbitMQ, Redis, .NET Quartz
 
 ---
 
