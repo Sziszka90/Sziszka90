@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Szilard Ferencz
+# 🧑‍💻💡 Hi, I'm Szilard
 
 I'm a full-stack software engineer focused on building scalable, maintainable applications using .NET, Angular, and modern cloud-native practices. I care deeply about clean architecture, DevOps automation, and delivering real business value through software.
 
@@ -14,7 +14,7 @@ I'm a full-stack software engineer focused on building scalable, maintainable ap
 
 ---
 
-## 🚀 Project Spotlight: [FinanceApp](https://github.com/users/Sziszka90/projects/2)
+## 🏗️ Project Spotlight: [FinanceApp](https://github.com/users/Sziszka90/projects/2)
 
 A full-stack personal finance application featuring:
 
