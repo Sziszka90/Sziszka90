@@ -40,6 +40,6 @@ A full-stack personal finance application featuring:
 - 💼 [LinkedIn](https://www.linkedin.com/in/szilard-ferencz/)
 - 🐙 [GitHub](https://github.com/Sziszka90)
 
-> ⭐ “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sziszka90&colo)
