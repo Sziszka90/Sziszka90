@@ -2,7 +2,7 @@
 
 # 🧑‍💻💡 Hi, I'm Szilard
 
-I'm a full-stack software engineer focused on building scalable, maintainable applications using .NET, Angular, and modern cloud-native practices. I care deeply about clean architecture, DevOps automation, and delivering real business value through software.
+I'm a full stack software engineer focused on building scalable, maintainable applications using .NET, Angular, and modern cloud-native practices. I care deeply about clean architecture, DevOps automation, and delivering real business value through software.
 
 <a href="https://github.com/sziszka90">
   <img src="https://github-readme-stats.vercel.app/api?username=Sziszka90&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&hide_rank=true" 
@@ -58,6 +58,6 @@ A full-stack personal finance application featuring:
 - 💼 [LinkedIn](https://www.linkedin.com/in/szilard-ferencz/)
 - 🐙 [GitHub](https://github.com/Sziszka90)
 
-> ⭐ “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sziszka90&colo
