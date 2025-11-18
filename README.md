@@ -1,24 +1,24 @@
-<p align="center">
-  <a href="https://github.com/sziszka90">
-    <img src="https://github-readme-stats.vercel.app/api?username=Sziszka90&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&hide_rank=true" 
-         width="30%" alt="Szilard's GitHub Stats" />
-  </a>
-  <a href="https://github.com/sziszka90">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sziszka90&theme=vue-dark&hide_border=true" 
-         width="30%" alt="Szilard's GitHub Streak" />
-  </a>
-  <a href="https://github.com/sziszka90">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sziszka90&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" 
-         width="30%" alt="Szilard's Top Languages" />
-  </a>
-</p>
 
-<br>
-</br>
 
 # 🧑‍💻💡 Hi, I'm Szilard
 
 I'm a full-stack software engineer focused on building scalable, maintainable applications using .NET, Angular, and modern cloud-native practices. I care deeply about clean architecture, DevOps automation, and delivering real business value through software.
+
+<a href="https://github.com/sziszka90">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sziszka90&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&hide_rank=true" 
+        width="30%" alt="Szilard's GitHub Stats" />
+</a>
+<a href="https://github.com/sziszka90">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sziszka90&theme=vue-dark&hide_border=true" 
+        width="30%" alt="Szilard's GitHub Streak" />
+</a>
+<a href="https://github.com/sziszka90">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sziszka90&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" 
+        width="30%" alt="Szilard's Top Languages" />
+</a>
+
+<br>
+</br>
 
 ---
 
