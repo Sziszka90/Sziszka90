@@ -2,22 +2,16 @@
 
 I'm a full stack software engineer focused on building scalable, maintainable applications using .NET, Angular, and modern cloud-native practices. I care deeply about clean architecture, DevOps automation, and delivering real business value through software.
 
-<table>
-  <tr>
-    <td align="left" width="50%">
-      <a href="https://github.com/sziszka90">
-        <img src="https://github-readme-stats.vercel.app/api?username=Sziszka90&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&hide_rank=true" 
-             width="100%" height="195px" alt="Szilard's GitHub Stats" />
-      </a>
-    </td>
-    <td align="right" width="50%">
-      <a href="https://github.com/sziszka90">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sziszka90&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" 
-             width="100%" height="195px" alt="Szilard's Top Languages" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 10px;">
+  <a href="https://github.com/sziszka90" style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Sziszka90&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&hide_rank=true" 
+         width="100%" height="195px" alt="Szilard's GitHub Stats" />
+  </a>
+  <a href="https://github.com/sziszka90" style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sziszka90&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" 
+         width="100%" height="195px" alt="Szilard's Top Languages" />
+  </a>
+</div>
 
 <br>
 </br>
