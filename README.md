@@ -2,7 +2,7 @@
 
 I'm a full stack software engineer focused on building scalable, maintainable applications using .NET, Angular, and modern cloud-native practices. I care deeply about clean architecture, DevOps automation, and delivering real business value through software.
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/sziszka90">
     <img src="https://github-readme-stats.vercel.app/api?username=Sziszka90&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&hide_rank=true" 
          width="49%" height="195px" alt="Szilard's GitHub Stats" />
@@ -11,7 +11,7 @@ I'm a full stack software engineer focused on building scalable, maintainable ap
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sziszka90&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" 
          width="49%" height="195px" alt="Szilard's Top Languages" />
   </a>
-</p>
+</div>
 
 <br>
 </br>
