@@ -6,12 +6,12 @@ I'm a full stack software engineer focused on building scalable, maintainable ap
 
 <a href="https://github.com/sziszka90">
   <img src="https://github-readme-stats.vercel.app/api?username=Sziszka90&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&hide_rank=true" 
-        width="50%" alt="Szilard's GitHub Stats" />
+        width="45%" alt="Szilard's GitHub Stats" />
 </a>
 
 <a href="https://github.com/sziszka90">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sziszka90&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" 
-        width="50%" alt="Szilard's Top Languages" />
+        width="45%" alt="Szilard's Top Languages" />
 </a>
 
 <br>
