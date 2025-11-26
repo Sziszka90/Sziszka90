@@ -4,7 +4,6 @@ I'm a full stack software engineer focused on building scalable, maintainable ap
 
 <br>
 </br>
-
 ---
 
 ## 🔧 Tech Stack
