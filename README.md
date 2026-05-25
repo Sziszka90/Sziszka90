@@ -14,7 +14,9 @@ I'm a full stack software engineer focused on building scalable, maintainable ap
 
 ---
 
-## 🏗️ Project Spotlight: [FinanceApp](https://github.com/users/Sziszka90/projects/2)
+## 🏗️ Projects Spotlights: 
+
+## [FinanceApp](https://github.com/users/Sziszka90/projects/2)
 
 A full-stack personal finance application featuring:
 
@@ -23,6 +25,17 @@ A full-stack personal finance application featuring:
 - CI/CD to Azure Container Apps with GitHub Actions
 - Multi-currency support, Redis caching, secure JWT auth
 - Clean code, modular structure, and full test coverage
+
+## [IdentityHub](https://github.com/users/Sziszka90/projects/4)
+
+A tenant-aware identity and authorization service built to sit between Azure Entra ID and consuming applications, featuring:
+
+- Centralized authentication and permission-based authorization
+- Tenant-aware role, group, and permission mapping
+- Microsoft Graph integration for users, groups, and membership resolution
+- `IdentityHub.Client` and `IdentityHub.Contracts` NuGet packages for easy integration
+- Configurable client caching with memory or Redis-backed distributed cache
+- Swagger support, integration tests, and Azure Container Apps deployment automation
 
 ---
 
