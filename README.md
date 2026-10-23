@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Szilard.
 
-**Software Engineer · Angular · .NET · Python · Azure**
+**Software Engineer - Angular · .NET · Python · Azure**
 
 I build applications, APIs, libraries, and the infrastructure that runs them.
 
