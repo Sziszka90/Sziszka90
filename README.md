@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Szilard.
 
-**Software Engineer - Angular · .NET · Python · Azure**
-
 I build applications, APIs, libraries, and the infrastructure that runs them.
 
 🔧 I work across the stack, from **designing applications and services to connecting them, working with data, and getting them running reliably in the cloud**.
@@ -14,7 +12,7 @@ I also build side projects and contribute to open source to explore technologies
 
 ### Interested in
 
-**Architecture · Distributed Systems · DevOps · Cloud · AI**
+**Architecture · Distributed Systems · Cloud · AI**
 
 ---
 
