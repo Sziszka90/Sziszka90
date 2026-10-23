@@ -2,7 +2,7 @@
 
 I build applications, APIs, libraries, and the infrastructure that runs them.
 
-🔧 I work across the stack, from **designing applications and services to connecting them, working with data, and getting them running reliably in the cloud**.
+🔧 I work across the stack, from **designing applications and services to connecting them and getting them running reliably in the cloud**.
 
 🧠 I enjoy going beyond the application layer - understanding how **data moves through a system, how services interact, how applications are deployed, and what happens when things don't go as planned**.
 
